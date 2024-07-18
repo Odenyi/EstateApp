@@ -47,9 +47,9 @@ mysqlclient==2.1.1
 
 Set the following environment variables to configure the database connection:
 
-REALESTATE_DB = <your-database-name>
-database_username = <your-database-username>
-database_password = <your-database-password>
+REALESTATE_DB  <your-database-name>
+database_username <your-database-username>
+database_password  <your-database-password>
 
 
 ## Setup Instructions
